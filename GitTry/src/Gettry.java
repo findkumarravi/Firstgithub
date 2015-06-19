@@ -6,6 +6,8 @@ public class Gettry {
 	 */
 	public static void main(String[] args) {
 		System.out.println("from git");
+		System.out.println("from git2");
+
 
 	}
 
